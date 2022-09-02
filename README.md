@@ -4,3 +4,4 @@
 
 - BERT
 - XLNet
+- DistillBERT
